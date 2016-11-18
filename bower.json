@@ -1,0 +1,31 @@
+{
+  "name": "HELLOWORLD_ANGULAR",
+  "authors": [
+    "rameshui447@gmail.com"
+  ],
+  "description": "Angular application",
+  "main": "index.html",
+  "keywords": [
+    "Angular",
+    "karma",
+    "jasmine"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "angularjs#1.4.9",
+    "jquery": "^3.1.1",
+    "angular-mocks": "^1.5.8"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  }
+}
